@@ -59,7 +59,7 @@ The following radio stations are included in the collection:
 
 - Station availability may vary; some streams might be offline or require specific codecs.
 - Logos are stored in the `icons/` directory and referenced in the M3U file.
-- This collection is for personal use; please respect copyright and licensing for commercial use.
+- If you want your own radio station in this just send out a PR
 
 ## Contributing
 
