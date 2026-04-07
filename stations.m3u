@@ -1,0 +1,71 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="icons/52_AFTERSWIM_AUTODJ.png",AFTERSWIM AUTODJ
+http://206.189.167.200:8000/autodj
+#EXTINF:-1 tvg-logo="icons/15_J1_HITS.png",J1 HITS
+https://jenny.torontocast.com:2000/stream/J1HITS?_=184325
+#EXTINF:-1 tvg-logo="icons/16_J1_GOLD.png",J1 GOLD
+https://jenny.torontocast.com:2000/stream/J1GOLD
+#EXTINF:-1 tvg-logo="icons/14_106_3_THE_DERP.png",106.3 THE DERP
+http://155.138.139.156:1063/
+#EXTINF:-1 tvg-logo="icons/51_BAGEL_RADIO.png",BAGEL RADIO
+http://ais-sa3.cdnstream1.com/2606_128.aac
+#EXTINF:-1 tvg-logo="icons/31_NEWGROUNDS_RADIO.png",NEWGROUNDS RADIO
+https://stream.newgroundsradio.com/radio.mp3
+#EXTINF:-1 tvg-logo="icons/19_SHONAN_BEACH_FM_78_9______.png",SHONAN BEACH FM 78.9 湘南ビーチ
+http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a
+#EXTINF:-1 tvg-logo="icons/54_EDEN_RADIO.png",EDEN RADIO
+https://edenofthewest.com/listen/eden-radio/radio.mp3
+#EXTINF:-1 tvg-logo="icons/22_Alice_95_1_FM_HD3.png",Alice 95.1 FM HD3
+https://radio.garden/api/ara/content/listen/MEkajAF4/channel.mp3
+#EXTINF:-1 tvg-logo="icons/23_8CCC_-_Alice_Springs___Tennant_Creek_-_102_1_FM__AAC__.png",8CCC - Alice Springs / Tennant Creek - 102.1 FM (AAC+)
+http://14533.live.streamtheworld.com:80/8CCCAAC.aac
+#EXTINF:-1 tvg-logo="icons/25_ARCTIC_OUTPOST_AM1270.png",ARCTIC OUTPOST AM1270
+https://radio.garden/api/ara/content/listen/sl0laSBK/channel.mp3
+#EXTINF:-1 tvg-logo="icons/26_RADIO_DISMUKE.png",RADIO DISMUKE
+http://74.208.228.126:8020/;stream.mp3
+#EXTINF:-1 tvg-logo="icons/28_THE_DUMP.png",THE DUMP
+https://turbo.net.au/api/radio/stream?stream=mp3&t=1765876682592
+#EXTINF:-1 tvg-logo="icons/24_NECTARINE.png",NECTARINE
+https://scenestream.io/opus
+#EXTINF:-1 tvg-logo="icons/27_CVGM_RADIO.png",CVGM RADIO
+http://radio.cvgm.net:8000/cvgm128.ogg
+#EXTINF:-1 tvg-logo="icons/32_KOHINA.png",KOHINA
+http://player.kohina.com/icecast/stream.ogg
+#EXTINF:-1 tvg-logo="icons/35_LAINCHAN_RADIO.png",LAINCHAN RADIO
+https://radio.lainchan.org/listen/lainchan_radio_main/radio.mp3
+#EXTINF:-1 tvg-logo="icons/34_DFM.png",DFM
+https://giss.tv:667/dfm_1.mp3
+#EXTINF:-1 tvg-logo="icons/29_HOLLOW_EARTH_RADIO.png",HOLLOW EARTH RADIO
+https://centova.rockhost.com/proxy/hollowearthice?mp=/stream
+#EXTINF:-1 tvg-logo="icons/53_RADIO_EURODANCE.png",RADIO EURODANCE
+http://quincy.torontocast.com:2380/stream
+#EXTINF:-1 tvg-logo="icons/36_NIGHTWAVE_PLAZA.png",NIGHTWAVE PLAZA
+https://radio.plaza.one/aac_hifi.m3u8s
+#EXTINF:-1 tvg-logo="icons/39_GENSOKYO_RADIO.png",GENSOKYO RADIO
+https://stream.gensokyoradio.net/1
+#EXTINF:-1 tvg-logo="icons/56_RADIO_HYRULE.png",RADIO HYRULE
+http://listen.radiohyrule.com:8000/listen
+#EXTINF:-1 tvg-logo="icons/55_BLASMUSIKRADIO_MIT_BERND.png",BLASMUSIKRADIO MIT BERND
+https://stream.laut.fm/blasmusikradio_mit_bernd
+#EXTINF:-1 tvg-logo="icons/40_PLAYBACK_FM.png",PLAYBACK FM
+https://audio.gtaradio.net/sa/playback-fm
+#EXTINF:-1 tvg-logo="icons/41_K-ROSE.png",K-ROSE
+https://audio.gtaradio.net/sa/k-rose
+#EXTINF:-1 tvg-logo="icons/42_K-DST.png",K-DST
+https://audio.gtaradio.net/sa/k-dst
+#EXTINF:-1 tvg-logo="icons/43_BOUNCE_FM.png",BOUNCE FM
+https://audio.gtaradio.net/sa/bounce-fm
+#EXTINF:-1 tvg-logo="icons/44_SF-UR.png",SF-UR
+https://audio.gtaradio.net/sa/sfur
+#EXTINF:-1 tvg-logo="icons/45_RADIO_LOS_SANTOS.png",RADIO LOS SANTOS
+https://audio.gtaradio.net/sa/radio-los-santos
+#EXTINF:-1 tvg-logo="icons/46_RADIO_X.png",RADIO X
+https://audio.gtaradio.net/sa/radio-x
+#EXTINF:-1 tvg-logo="icons/47_CSR_103_9.png",CSR 103.9
+https://audio.gtaradio.net/sa/csr
+#EXTINF:-1 tvg-logo="icons/48_K-JAH_WEST.png",K-JAH WEST
+https://audio.gtaradio.net/sa/k-jah
+#EXTINF:-1 tvg-logo="icons/49_MASTER_SOUNDS_98_3.png",MASTER SOUNDS 98.3
+https://audio.gtaradio.net/sa/master-sounds
+#EXTINF:-1 tvg-logo="icons/50_WCTR.png",WCTR
+https://audio.gtaradio.net/sa/wctr
